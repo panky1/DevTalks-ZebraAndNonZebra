@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DevTalks-ZebraAndNonZebra.iml" filepath="$PROJECT_DIR$/DevTalks-ZebraAndNonZebra.iml" />
+      <module fileurl="file://D:\New folder\Bcil\devtalks-061516-BestPractices\devtalks-061516-BestPractices\DevTalks-ZebraAndNonZebra\ZebraAndNonZebra.iml" filepath="D:\New folder\Bcil\devtalks-061516-BestPractices\devtalks-061516-BestPractices\DevTalks-ZebraAndNonZebra\ZebraAndNonZebra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\New folder\Bcil\devtalks-061516-BestPractices\devtalks-061516-BestPractices\DevTalks-ZebraAndNonZebra\app\app.iml" filepath="D:\New folder\Bcil\devtalks-061516-BestPractices\devtalks-061516-BestPractices\DevTalks-ZebraAndNonZebra\app\app.iml" />
+    </modules>
+  </component>
+</project>
